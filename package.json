@@ -1,0 +1,20 @@
+{
+  "name": "qy-element-ui-batch-search",
+  "version": "1.0.1",
+  "description": "基于element-ui封装的批量搜索输入框组件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chaimHL"
+  },
+  "keywords": [
+    "element-ui",
+    "批量搜索",
+    "输入框"
+  ],
+  "author": "Chaim",
+  "license": "ISC"
+}
